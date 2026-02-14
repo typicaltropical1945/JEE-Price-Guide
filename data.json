@@ -8935,6 +8935,15 @@
             "new_price": 100000000000000000,
             "action": "update",
             "timestamp": "2026-02-14T07:09:51.753441+00:00"
+        },
+        {
+            "user": "typlcal",
+            "user_id": "760751710263836704",
+            "item": "'70s Chair Blueprint",
+            "old_price": 0,
+            "new_price": 100000000000000,
+            "action": "update",
+            "timestamp": "2026-02-14T07:14:06.945171+00:00"
         }
     ],
     "Red Lavender": {
@@ -14419,11 +14428,11 @@
         "updated_by": "typlcal"
     },
     "'70s Chair Blueprint": {
-        "price": 0,
-        "updated": "2026-02-14T01:45:50.807208+00:00",
+        "price": 100000000000000,
+        "updated": "2026-02-14T07:14:06.945171+00:00",
         "category": "Dev Items",
         "subcategory": "Blueprints",
-        "updated_by": "Unknown"
+        "updated_by": "typlcal"
     },
     "'70s Single Bed Blueprint": {
         "price": 0,
